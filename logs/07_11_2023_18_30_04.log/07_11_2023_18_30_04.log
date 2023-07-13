@@ -1,0 +1,7 @@
+[ 2023-07-11 18:30:05,072 ] 148 numexpr.utils - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2023-07-11 18:30:05,072 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2023-07-11 18:30:05,765 ] 225 werkzeug - WARNING -  * Debugger is active!
+[ 2023-07-11 18:30:05,770 ] 225 werkzeug - INFO -  * Debugger PIN: 566-515-521
+[ 2023-07-11 18:30:05,830 ] 225 werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[ 2023-07-11 18:30:05,831 ] 225 werkzeug - INFO -  * Running on http://192.168.43.252:5000/ (Press CTRL+C to quit)
